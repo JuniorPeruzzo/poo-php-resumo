@@ -71,7 +71,7 @@ public function setVolante(): void {
 
 ```
 
-## Henraça
+## Herança
 
 A herança é exatamente o que o nome diz, uma classe que vai herdar os dados de outra classe. Teremos uma classe filha e uma classe pai. A classe filha poderá utilizar os métodos da classe pai, entre outras coisas que pode herdar. Assim uma classe filha pode utilizar os dados da classe pai e ainda ter seus próprios métodos e atributos. Como um modelo específico de carro.
 
